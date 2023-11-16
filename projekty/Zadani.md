@@ -1,6 +1,6 @@
 # Zadání projektů
 
-1. Přihlašte se k tématu projektu, na kterém chcete pracovat. Je potřeba utvořit týmz po 2-3 lidech, domluvte se tedy ideálně předem, s kým budete v týmu.
+1. [Přihlašte se k tématu](https://is.muni.cz/tudle/fqhs) projektu, na kterém chcete pracovat. Je potřeba utvořit týmy po 2-3 lidech, domluvte se tedy ideálně předem, s kým budete v týmu.
 2. Vytvořte si nový repozitář (společný, jeden za celý tým) na GitHubu a přidejte jako Collaborators členy svého týmu a mě (veronikaburgerova)
 3. Projekt budete vzpracovávat v několika fázích (budou doplnovany prubezne):
 
