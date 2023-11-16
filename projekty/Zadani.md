@@ -11,6 +11,7 @@ Identifikujte základní funkce vaší aplikace
   - Jak chceme, aby se chovala?
   - Co všechno uživateli umožní?
   - Jsou nějaké existující aplikace podobného typu, kterými bychom se mohli inspirovat?
+
 Zkuste rozdělit funkcionality aplikace na následující:
   - Nutná funkcionalita (co aplikace musí umožňovat, bez čeho se neobejde)
   - Důležitá funkcionalita (co by aplikace měla umožňovat – bude fungovat i bez toho, ale je to třeba nepraktické apod.)
