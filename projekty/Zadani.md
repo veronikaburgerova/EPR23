@@ -20,3 +20,18 @@ Zkuste rozdělit funkcionality aplikace na následující:
 Ve složce [Projekty](https://github.com/veronikaburgerova/EPR23/tree/main/projekty) najdete šablonu, kterou si stáhnete a nahrajete do svého repozitáře, kterou vyplňte.
 
 **Deadline: 23. 11. 2023**
+
+## 2) Návrh
+Určete uživatele a jejich role
+  - Bude využívat aplikaci více typů uživatelů? (Např. učitel/žák/rodič…)
+  - Kdo nebo co bude aplikaci používat? Bude více typů uživatelů? 
+  - Jakou roli bude/budou při interakci s aplikací mít? (Např. učitel/žák/rodič, registrovaný/neregistrovaný uživatel…)
+    
+Definujte způsoby použití a aktivity v aplikaci
+  - Jaké operace budou jednotliví uživatelé s aplikací provádět? (Např. přihlásit se, rozkliknout hru, zadat platbu…)
+  - Co se stane, když nastanou? (Např. otevře se nové okno, zobrazí se MessageBox, aplikace se zavře, zobrazí se nějaký text…)
+  - Zkuste také rozmyslet, kolik a jaká okna bude vaše aplikace využívat. Bude jen hlavní okno nebo nějaké další?
+
+Odevzdání: dva diagramy – use case a activity
+
+**Deadline: 1. 12. 2023**
