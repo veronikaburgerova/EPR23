@@ -35,3 +35,22 @@ Definujte způsoby použití a aktivity v aplikaci
 Odevzdání: dva diagramy – use case a activity
 
 **Deadline: 1. 12. 2023**
+
+## 3) Implementace
+- Rozdělte si role v týmu pro tento týden (XAML, aplikační logika, koordinace, grafika…)
+- Rozmyslete, kolik oken budete potřebovat a vytvořte si soubor pro hlavní okno i další okna.
+- Implementujte funkcionalitu: vycházejte z vašich diagramů a analýzy požadavků – začněte těmi nutnými.
+- V aplikaci byste měli použít většinu z prvků:
+  - Tlačítka
+  - Label
+  - TextBox
+  - zaškrtávací políčka
+  - Posuvníky / ProgressBar / Slider
+  - ListBox
+  - Menu
+  - práce s barvami či obrázky
+  - více oken
+  - MessageBox
+ 
+  **Částečný deadline: 7. 12. 2023**
+
