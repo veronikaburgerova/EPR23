@@ -54,3 +54,13 @@ Odevzdání: dva diagramy – use case a activity
  
   **Částečný deadline: 7. 12. 2023**
 
+  ## 4) Design, kvalita a finalizace
+  - Ujistěte se, aby vaše rozhraní bylo přehledné, graficky přijatelné a intuitivní.
+  - Otestujte aplikaci a ověřte, že všechny funkce a prvky fungují, jak mají.
+  - Projděte kód a zaměřte se na jeho kvalitu.
+  - Ujistěte se, že všechny úkoly a nedokončené části jsou dokončeny.
+  - Přidejte ke svému kódu dokumentaci pro vývojáře.
+ 
+  **Deadline: 30. 12. 2023**
+
+
