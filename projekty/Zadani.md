@@ -60,8 +60,6 @@ Odevzdání: dva diagramy – use case a activity
   - Projděte kód a zaměřte se na jeho kvalitu.
   - Ujistěte se, že všechny úkoly a nedokončené části jsou dokončeny.
   - Přidejte ke svému kódu dokumentaci pro vývojáře.
-
- **Částečný deadline: 25. 12. 2023** (pokud chcete zpětnou vazbu před finálním odevzdáním)
  
  **FINÁLNÍ deadline: 30. 12. 2023**
 
