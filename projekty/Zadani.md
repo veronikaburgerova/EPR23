@@ -81,5 +81,13 @@ Jak review formulovat: Snažte se být konstruktivní. Pokud vám něco nevyhovu
 
 **Deadline: 7. ledna**
 
+## 5) Prezentace
+- Váš projekt budete prezentovat v hodině **11. ledna**
+- Prezentace by měla zabrat ca **7–8 minut**.
+- Do prezentace se musí zapojit **všichni z týmu v netriviální míře** (např. jen říct název projektu a předat slovo je velmi triviální)
+- Po odprezentování bude čas na otázky.
+- Všichni z týmu by měli mít o svém projektu přehled, chápat, jak jejich aplikace funguje a rozumět jejímu kódu.
+
+
 
 
