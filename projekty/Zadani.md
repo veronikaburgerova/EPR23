@@ -63,4 +63,22 @@ Odevzdání: dva diagramy – use case a activity
  
  **FINÁLNÍ deadline: 30. 12. 2023**
 
+ **5) Peer reviews**
+- Každý je přiřazen k jinému projektu – posláno jako zip
+- Úkolem je dát peer review – zpětnou vazbu k projektu spolužáků
+
+Při procházení aplikace se zaměřte na:
+- Funkcionalitu – splňuje aplikace požadavky z analýzy?
+- Chování v různých situacích –  chová se, jak by měla (např. podle návrhových diagramů)? nenastane v nějaké situaci chyba? padá někdy program? nechová se aplikace nepředvídatelně?
+- Uživatelská přívětivost – je pro vás používání aplikace intuitivní? je grafické rozvržení rozumné? působí aplikace vizuálně hezky?
+Na co se dále můžete zaměřit:
+- Kvalita kódu – je program napsán kvalitně? šel by nějaký kód napsat lépe/efektivněji/…? je pro vás kód tak, jak je napsaný, pochopitelný?
+- Povinné prvky – obsahuje program většinu z prvků požadovaných ze zadání?
+- Dokumentace – má aplikace nějakou dokumentaci (ať už v readme, komentářích či jinak), která by vám pomohla se v aplikaci a jejím zdrojovém kódu vyznat?
+
+Jak review formulovat: Snažte se být konstruktivní. Pokud vám něco nevyhovuje a zmíníte to, popište také, proč to tak je či co vám problém způsobuje a jak by se to dalo vylepšit/spravit. Využijte šablonu k peer review.
+
+**Deadline: 7. ledna**
+
+
 
