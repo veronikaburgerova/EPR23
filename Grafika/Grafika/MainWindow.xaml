@@ -6,7 +6,17 @@
         xmlns:local="clr-namespace:Grafika"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-
+    <Window.Resources>
+        <SolidColorBrush x:Key="CoolBrush" Color="Yellow"/>
+        
+        <Style x:Key="RectangleStyle" TargetType="Rectangle">
+            <Setter Property="Width" Value="400"/>
+            <Setter Property="Height" Value="300"/>
+            <Setter Property="Fill" Value="CadetBlue"/>
+        </Style>
+        
+    </Window.Resources>
+    <Grid x:Name="gridik">
+        
     </Grid>
 </Window>
