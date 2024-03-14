@@ -31,21 +31,23 @@ namespace Grafika
             Canvas myCanvas = new Canvas();
             myCanvas.Width = 600;
             myCanvas.Height = 600;
+            Brush color = Brushes.Blue;
 
-            
-
-            for (int i = n; i > 0; i--)
+            for (int i = 0; i < n; i++)
             {
                 Rectangle rect = new Rectangle();
-                rect.Fill = Brushes.Blue;
+            
                 rect.Width = 500 - (i * d);
                 rect.Height = 200 - (i * d);
 
-                if (rect.Fill == Brushes.Blue)
-                    rect.Fill = Brushes.Cornsilk;
+                if (color == Brushes.Blue)
+                {
+                    color = Brushes.Cornsilk;
+                } 
                 else
-                    rect.Fill = Brushes.Blue;
+                    color = Brushes.Blue;
 
+                rect.Fill = color;
                 myCanvas.Children.Add(rect);
             }
 
