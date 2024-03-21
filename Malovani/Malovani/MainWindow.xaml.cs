@@ -21,11 +21,15 @@ namespace Malovani
     public partial class MainWindow : Window
     {
         private SolidColorBrush currentColor = Brushes.Black;
+        private int brushSize = 20;
+
+
 
         public MainWindow()
         {
             InitializeComponent();
-           
+            
+
         }
 
        
@@ -35,8 +39,8 @@ namespace Malovani
             circle.Fill = currentColor;
             circle.Stroke = currentColor;
             circle.StrokeThickness = 1;
-            circle.Width = 20;
-            circle.Height = 20;
+            circle.Width = brushSize;
+            circle.Height = brushSize;
 
             Canvas.SetLeft(circle, position.X);
             Canvas.SetTop(circle, position.Y);   
@@ -56,6 +60,11 @@ namespace Malovani
         private void canvas_MouseDown(object sender, MouseButtonEventArgs e)
         {
             DrawCircle(e.GetPosition(canvas));
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            brushSize = int.Parse(size.Text);
         }
     }
 }
